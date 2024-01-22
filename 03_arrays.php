@@ -83,5 +83,5 @@ echo $people[2]['email'];
 var_dump(json_encode($people));
 
 // Decode from JSON
-$jsonobj = '{"first_name":"Brad","last_name": "Traversy","email":"brad@gmail.com"}';
+$jsonobj = '{"first_name":"Brad","last_name": "Traversy","email":"bradx@gmail.com"}';
 var_dump(json_decode($jsonobj));
