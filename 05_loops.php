@@ -75,9 +75,9 @@ foreach ($posts as $index => $post) {
 // Use the keys within the loop for an associative array
 
 $person = [
-  'first_name' => 'Brad',
+  'first_name' => 'Khalid',
   'last_name' => 'Traversy',
-  'email' => 'brad@gmail.com',
+  'email' => 'khalid@gmail.com',
 ];
 
 // Get Keys
